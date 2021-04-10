@@ -1,0 +1,27 @@
+.h1{
+  font-size: 30px;
+  background-color:grey;
+  color:white;
+  text-align:center;
+}
+label {
+    display: inline-block;
+    width: 5em;
+  }
+.ui-menu { width: 150px; }
+
+#progressbar .ui-progressbar-value {
+    background-color: #ccc;
+  }
+
+  
+  fieldset {
+      border: 0;
+    }
+    label {
+      display: block;
+      margin: 30px 0 0 0;
+    }
+    .overflow {
+      height: 200px;
+    }
